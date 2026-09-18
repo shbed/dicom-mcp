@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+test-work/
+work/
+dicom-data/
+dicom_mcp.egg-info/
+test-*.log
+test-*.png
+probe*.jsonl
+probe*.log
