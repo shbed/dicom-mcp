@@ -9,3 +9,6 @@ test-*.log
 test-*.png
 probe*.jsonl
 probe*.log
+
+# local one-off GitHub device-flow auth helper
+tools/gh_poll_login.sh
